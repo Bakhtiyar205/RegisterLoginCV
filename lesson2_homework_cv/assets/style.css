@@ -1,0 +1,24 @@
+
+.left-right {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.border{
+    margin-top: 50px;
+    height: 20px;
+    background-color: gray;
+}
+#heading{
+    height: 100px;
+    width: 100%;
+}
+
+#heading-left{
+    font-size: 30px;
+    width: 70%;
+    text-align: left;
+}
+
+#text-profile{
+    width: 85%;
+}
